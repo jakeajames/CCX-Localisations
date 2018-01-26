@@ -1,0 +1,28 @@
+<dict>
+<key>DARK_MODE_ON</key>
+<string>Modalità Notte: Attiva</string>
+<key>DARK_MODE_OFF</key>
+<string>Modalità Notte: Non attiva</string>
+<key>NIGHT_SHIFT_ON</key>
+<string>Night Shift: Attivo</string>
+<key>NIGHT_SHIFT_OFF</key>
+<string>Night Shift: Non attivo</string>
+<key>AIRPLAY_MIRRORING</key>
+<string>Duplica\nschermo</string>
+<key>AIRDROP_OFF</key>
+<string>AirDrop:\nRicezione non attiva</string>
+<key>AIRDROP_CONTACTS</key>
+<string>AirDrop:\nSolo contatti</string>
+<key>AIRDROP_EVERYONE</key>
+<string>AirDrop:\nTutti</string>
+<key>AIRDROP_MENU_OFF</key>
+<string>Ricezione non attiva</string>
+<key>AIRDROP_MENU_CONTACTS</key>
+<string>Solo contatti</string>
+<key>AIRDROP_MENU_EVERYONE</key>
+<string>Tutti</string>
+<key>AIRDROP_MENU_TITLE</key>
+<string>Puoi essere rilevabile su AirDrop per ricevere da tutti o solo dai tuoi contatti.</string>
+<key>AIRDROP_MENU_CANCEL</key>
+<string>Puoi essere rilevabile su AirDrop per ricevere da tutti o solo dai tuoi contatti.</string>
+</dict>
